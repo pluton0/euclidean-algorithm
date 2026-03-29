@@ -58,9 +58,9 @@ def get_user_input():
 
 
 def main():
-     """
-    Main function to execute the program.
     """
+   Main function to execute the program.
+   """
     algo = EuclideanAlgorithm()
 
     values = get_user_input()
